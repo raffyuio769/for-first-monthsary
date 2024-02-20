@@ -3,7 +3,7 @@
   left: 48%;
   top: 50px;
   z-index: 101;
-  scale: 0.8;
+  scale: 0.6;
   animation: hear 1.5s;
 }
 .heart{
