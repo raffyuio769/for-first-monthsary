@@ -1,8 +1,7 @@
 .heart-container{
   position: absolute;
-  left: 49%;
-  right: 49%;
-  top: 34%;
+  left: 48%;
+  top: 50px;
   z-index: 101;
   scale: 0.8;
   animation: hear 1.5s;

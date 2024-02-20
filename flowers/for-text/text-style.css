@@ -1,6 +1,7 @@
 .container-text{
   position: absolute;
   top: 20vh;
+  text-align: center;
   z-index: 100;
   color: rgb(0, 0, 0);
   font-family: Montserrat, Helvetica;
