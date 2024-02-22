@@ -6,7 +6,13 @@ body {
   background-color: #332941;
   flex-direction: column;
 }
-
+.text-eli{
+  width: 200px;
+  font-family: Montserrat, Helvetica;
+  text-align: center;
+  font-weight: 600;
+  color: white;
+}
 .container {
   position: relative;
 }
